@@ -28,7 +28,7 @@ export default function Home() {
           </p>
           <div className="hero-nekath">
             නැකත් වේලාව
-            <b>උදෑසන 7.00</b>
+            <b>උදෑසන 5.00</b>
           </div>
         </div>
 
